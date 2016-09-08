@@ -1,2 +1,2 @@
-# hello-world
-udaya's first github project
+# hello magento
+udaya's first github project..it is just a beginning
